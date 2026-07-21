@@ -4,4 +4,4 @@ app = FastAPI(title= "AI Agent Platform")
 
 @app.get("/")
 def root():
-    {"status": "online", "message":"AI Platform läuft"}
+    {"status": "online", "message": "AI Platform läuft"}
