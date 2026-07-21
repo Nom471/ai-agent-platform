@@ -1,0 +1,11 @@
+# Python virtuelle Umgebung
+venv/
+.venv/
+__pycache__/
+
+# Umgebungsvariablen (Keys & Passwörter)
+.env
+
+# Systemdateien
+.DS_Store
+Thumbs.db
